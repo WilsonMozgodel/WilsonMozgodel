@@ -7,7 +7,7 @@ Software engineer
 I love code!!
 
 * 🌍  I'm based in USA, Russia
-* 🖥️  See my portfolio at [My portfolio](http://github.com/Feegrgrgrg/Digital-Goods-Store.py)
+* 🖥️  See my portfolio at [My portfolio](https://github.com/Feegrgrgrg?tab=repositories)
 * 🧠  I'm learning Python, C++
 * 🤝  I'm open to collaborating on interesting projects
 * ⚡  My name is unusual. Isn't it?
