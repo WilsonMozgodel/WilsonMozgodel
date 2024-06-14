@@ -1,7 +1,7 @@
 # 💫About Me :
 backend dev
 
-🌍  I'm based an all over the world
+🌍  I'm based all over the world
 🧠  I'm learning Python, C++
 🤝  I'm open to collaborating on interesting projects
 ⚡  Hardworking, love code
