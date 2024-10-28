@@ -6,7 +6,7 @@
 backend dev
 
 🌍  I'm based all over the world
-🧠  I'm learning Python, C++
+🧠  I'm learning Python, Go
 🤝  I'm open to collaborating on interesting projects
 ⚡  Hardworking, love code
 
